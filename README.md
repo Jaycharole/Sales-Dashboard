@@ -1,0 +1,2 @@
+# Sales-Dashboard
+The project is data analytics project of EuroMart stores. In this project we are going to go through various aspects of data set and find the sales, profit, profit margin, discount and other things related to the sales analysis of the stores. The project will help the stores to modify the sales and help to improve their sales and marketing plan to regions, categories and segments where sales and profit are low.
