@@ -10,6 +10,12 @@ You can view by clicking on the link: <a href="https://datastudio.google.com/rep
 ### About the project:- 🤓
 The project is data analytics project of EuroMart stores. In this project we are going to go through various aspects of data set and find the sales, profit, profit margin, discount and other things related to the sales analysis of the stores. The project will help the stores to modify the sales and help to improve their sales and marketing plan to regions, categories and segments where sales and profit are low.
 
+### Tools used:
+<p>
+  <a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpVNZbKZOkpit_fOp3ONSt4o4vuU-8QqFGh3NNZmP_fGKHYz7qqPYrn_geo9EONdKiZzk&usqp=CAU" alt="Google Data studio" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://webobjects2.cdw.com/is/image/CDW/5300125?$product-main$" alt="excel" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://i.pcmag.com/imagery/reviews/00InVWTsLrQWxxCpsQMKFcl-5.1569482071.fit_scale.size_760x427.jpg" alt="excel" width="40" height="40"/> </a>
+</p>
 
 ### About the Datset:
 The dataset is EuroStores Sales data which has various columns which gives information about different products their sales region, profits, discounts, shipping etc.
