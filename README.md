@@ -44,11 +44,15 @@ You can download the dataset by the above repository.
 
 - ✨ Where there is absolute no sales **discount is very high.**
 
+- ✨ Highesh shipping mode is **Economy**.
+
 - ✨ **Netherlands** has lowest profit & sales.
 
 - ✨ **Angle Massengile** is the customer with **highest sales.**
 
 - ✨ **Central Region** has the highest sales.
+
+
 
 
 ## For more detailed analysis download the report given in the above repo 👆👆👆👆
